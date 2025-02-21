@@ -27,3 +27,14 @@ My expertise lies in **JavaScript, TypeScript, and Python**, and I’m passionat
 - Docker, Railway, Netlify
 - GitHub Actions, CI/CD
 - Google Cloud, AWS
+
+## 📌 Featured Projects
+
+- **[Cookies & Dates](https://cookiesanddates.com)** – A full-stack web app that helps users track important dates like birthdays and anniversaries. Features **Google authentication**, **customisable reminders**, and **ChatGPT-generated messages**. Automated email notifications are sent daily using **GitHub Actions**. The front end is deployed with a **custom domain**, while the back end runs in a **Dockerised environment**.
+  - **Tech Stack:** React, Django, MySQL, Docker, GitHub Actions
+
+- **[Owl Array](https://owl-array.netlify.app)** – An interactive web app for practicing **JavaScript array methods** like `push`, `pop`, and `slice`. Users can progress through levels sequentially or skip ahead to methods of interest.
+  - **Tech Stack:** HTML, CSS, JavaScript, React
+
+- **[Speedy Auto Centre](https://www.speedyautocentre.com/)** – Developed and hosted a **mechanic workshop website** for a Sydney-based business using **HTML, CSS, JavaScript, and PHP** on **Google Cloud**, ensuring timely delivery, budget compliance, and a user-friendly experience that met client requirements. Implemented a **booking system**, allowing customers to schedule appointments when submitting their details.
+  - **Tech Stack:** JavaScript, PHP, Google Cloud Platform
