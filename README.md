@@ -12,21 +12,9 @@ My expertise lies in **JavaScript, TypeScript, and Python**, and I’m passionat
 
 ## 🛠️ Technologies & Tools
 
-### Front-End:
-- JavaScript, TypeScript
-- React, Next.js
-- HTML, CSS, Tailwind CSS
-- Figma (UI/UX Design)
-
-### Back-End:
-- Python, Django, Django REST Framework
-- MySQL, PostgreSQL
-- C#, .NET (learning)
-
-### DevOps & Tools:
-- Docker, Railway, Netlify
-- GitHub Actions, CI/CD
-- Google Cloud, AWS
+- **Front-End:** JavaScript, TypeScript, React, Next.js, HTML, CSS
+- **Back-End:** Python, Django (DRF), MySQL, C# (.NET - learning)
+- **DevOps & Tools:** Docker, Railway, Netlify, GitHub Actions (CI/CD), Google Cloud, AWS
 
 ## 📌 Featured Projects
 
