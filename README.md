@@ -4,7 +4,7 @@
 I'm a career-changer with a background in **architectural engineering and retail management**, now building **scalable web applications** that merge **design, logic, and automation**. Passionate about turning ideas into polished solutions with **JavaScript, TypeScript, and Python**.
 
 - 🛠️ Front-End: JavaScript, TypeScript, React, Next.js  
-- ⚙️ Back-End: Python (Django/DRF), MySQL, C# (.NET – learning)  
+- ⚙️ Back-End: Python (Django/DRF), MySQL  
 - ☁️ DevOps: Docker, Railway, GitHub Actions, GCP, AWS
 
 ### 📌 Featured Projects
